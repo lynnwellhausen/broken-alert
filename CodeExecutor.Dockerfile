@@ -1,1 +1,1 @@
-FROM tryretool/code-executor-service:3.75.1-stable
+FROM tryretool/code-executor-service:3.75.2-stable
