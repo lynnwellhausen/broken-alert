@@ -1,1 +1,1 @@
-FROM tryretool/backend:3.75.1-stable
+FROM tryretool/backend:3.75.1
